@@ -1,0 +1,2 @@
+to rename a file, we use the following command:
+mv <old_file_name> <new_file_name>
